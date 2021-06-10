@@ -1,5 +1,5 @@
 """
-Assessment assignment 2
+Assessment problem 2
 Nadia van der Leer for Connect Holland
 10 June 2021
 """
