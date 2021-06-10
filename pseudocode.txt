@@ -1,0 +1,11 @@
+For sort_numerically:
+    1. Convert words to integers:
+        - Use extern component
+        - Use own alogritm, by dividing units, tens, and hundreds/thousands/millions
+            - convert one by one until all numbers are covered
+    2. Sort integers in descending order
+    3. Convert integers back to words and print
+
+For all_anagram_groups:
+    1. Simple first step: compare characters by using sorted()
+    2. Advanced: take out space char and compare strings with spaces
